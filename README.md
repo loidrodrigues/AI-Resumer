@@ -18,10 +18,6 @@ O app permite que o usuário insira qualquer texto e receba um **resumo gerado a
 ✅ Interface simples e responsiva  
 ✅ Tudo funcionando 100% no front-end  
 
----
-
-## 📸 Demonstração
-*(Adicione aqui prints ou GIFs do projeto em funcionamento)*
 
 ---
 
